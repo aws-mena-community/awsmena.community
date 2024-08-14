@@ -7,15 +7,6 @@
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/
 
-- speaker: Ahmed Ibrahim
-  language: English
-  title: Simplify access to your cloud applications leveraging AWS technologies   
-  time: TBA
-  image: Ahmed-Ibrahim.jpeg
-  position: CTO at SnapTec, ex-AWS
-  custom-css-class: bg
-  linked-url: https://www.linkedin.com/in/ahmedi1
-
 - speaker: Mohammed Albaharnah
   language: English
   title: AWS Advanced Networking and Use Cases 
