@@ -1,11 +1,18 @@
-- speaker: TBA
+- speaker: Amr Elmasry
   language: English
-  title: TBA
   time: Key Note Speaker
-  image: awsGrayLogo.jpg
-  position: TBA
+  image: Amr-Elmasry.jpeg
+  position: Country Lead - Saudi Arabia at AWS
   custom-css-class: bg
-  linked-url: https://www.linkedin.com/in/
+  linked-url: https://www.linkedin.com/in/amr-almasri-607b3b24/
+
+- speaker: Dr. Azzam Alsudais
+  language: English
+  time: Key Note Speaker
+  image: Azzam-Alsudais.jpeg
+  position: Dean of Digital Transformation (CIO) - Prince Sultan University
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/azzam-alsudais/
 
 - speaker: Mohammed Albaharnah
   language: English
@@ -33,6 +40,15 @@
   position: CEO of Zero&One - AWS Premier Consulting Partner
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/akontar/
+
+- speaker: Osama Shamout
+  language: English
+  title: AWS Design - Building Solutions that Scale, Secure, and Save 
+  time: TBA
+  image: osama-speaker.jpg
+  position: 6X AWS Certified Solutions Architect at Digico Solutions
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/osama-shamout
 
 - speaker: Ali Hamidaddin
   language: English
@@ -79,16 +95,6 @@
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/alhoshan
 
-
-- speaker: Osama Shamout
-  language: English
-  title: AWS Design - Building Solutions that Scale, Secure, and Save 
-  time: TBA
-  image: osama-speaker.jpg
-  position: 6X AWS Certified Solutions Architect at Digico Solutions
-  custom-css-class: bg
-  linked-url: https://www.linkedin.com/in/osama-shamout
-
 - speaker: Mohamed Sallam
   language: English
   title: From On-Premises DB to AWS - A Real-World Database Migration Case Study (Unveiling RDS vs. EC2 & SQL vs. NoSQL) 
@@ -106,3 +112,22 @@
   position: Head of Solutions Architects - WWPS BAH, KSA, EG & NA - AWS
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/heshamgalal/
+
+- speaker: Arwa Alnitaifi
+  language: English
+  title: Generative BI in action with Amazon QuickSight
+  time: TBA
+  image: Arwa-Alnitaifi.jpeg
+  position: Solutions Architect at AWS Saudi Arabia
+  custom-css-class: bg
+  linked-url: http://linkedin.com/in/arwaalnitaifi
+
+- speaker: Anas Aljuwaiber
+  language: English
+  title: Training Programs at Tuwaiq Academy
+  time: TBA
+  image: Anas-Aljuwaiber.jpg
+  position: Technical Trainer at Tuwaiq Academy
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/anasju
+
