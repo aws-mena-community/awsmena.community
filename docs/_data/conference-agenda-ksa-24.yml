@@ -50,14 +50,14 @@
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/osama-shamout
 
-- speaker: Ali Hamidaddin
+- speaker: Mahmoud Elhusseiny
   language: English
-  title: Migration to AWS 
+  title: AWS Outposts - Bringing the AWS experience on-premises
   time: TBA
-  image: Ali-Hamidaddin.jpeg
-  position: Solutions Architect at AWS Saudi Arabia
+  image: Mahmoud-Elhusseiny.jpeg
+  position: Senior Solutions Architect at AWS Saudi Arabia
   custom-css-class: bg
-  linked-url: https://www.linkedin.com/in/ali-hamidaddin
+  linked-url: https://www.linkedin.com/in/mahmoud-elhusseiny-41548055
 
 - speaker: Reef AlThunayan
   language: English
