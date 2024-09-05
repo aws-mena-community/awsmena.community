@@ -671,7 +671,8 @@ img.communityday-sponsor-small {
 }
 
 .schedule-slot-time-key {
-    width: 15%;
+    padding-right: 10%;
+    width: 20%;
     float: left;
     font-weight: 700;   
 }
@@ -681,13 +682,16 @@ img.communityday-sponsor-small {
     display: flex;
     border: 1px solid #ddd;
     margin-bottom: 50px;
-    padding-top: 5%;
+    padding-top: 10%;
     padding-bottom: 5%;
     padding-left: 5%;
+    padding-right: 5%;
     margin-left: 15px;
     position: relative;
     border-radius: 5px;
     box-shadow: rgb(100 100 111 / 20%) 0px 7px 89px 0px;
+    height: 300px;
+
 }
 .schedule-listing-key.bg {
     background: #f5f5f5;
@@ -1729,6 +1733,7 @@ Mobile friendly media
         padding-bottom: 20px;
         margin-bottom: 20px;
         margin-right: 0px;
+        height: 400px;
     }
     
     .schedule-slot-title{
