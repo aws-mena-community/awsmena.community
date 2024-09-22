@@ -32,15 +32,6 @@
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/mohammedfazalullah/
 
-- speaker: Ali El Kontar
-  language: English
-  title: Nextgen Cloud Management leveraging Bedrock
-  time: TBA
-  image: Ali-El-Kontar.jpeg
-  position: CEO of Zero&One - AWS Premier Consulting Partner
-  custom-css-class: bg
-  linked-url: https://www.linkedin.com/in/akontar/
-
 - speaker: Osama Shamout
   language: English
   title: AWS Design - Building Solutions that Scale, Secure, and Save 
@@ -58,15 +49,6 @@
   position: Senior Solutions Architect at AWS Saudi Arabia
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/mahmoud-elhusseiny-41548055
-
-- speaker: Reef AlThunayan
-  language: English
-  title: Amazon Q - A Generative AI-Powered Assistant tailored for your work
-  time: TBA
-  image: Reef-Al-Thunayan.jpeg
-  position: Associate Solution Architect at AWS Saudi Arabia
-  custom-css-class: bg
-  linked-url: https://www.linkedin.com/in/reef-althunayan-7060321b4/
 
 - speaker: Gautham Nagaraj
   language: English
@@ -88,7 +70,7 @@
 
 - speaker: Abdullah Al-Hoshan
   language: English
-  title: The Software Development Process at Amazon
+  title: Amazon Q Developer
   time: TBA
   image: Abdullah-Al-Hoshan.jpeg
   position: Senior Solution Architect at AWS Saudi Arabia
