@@ -1,0 +1,33 @@
+- speaker: Ahmed Samir
+  language: English
+  time:  '9:15AM Welcome Speech'
+  image: ahmedSamir.jpg
+  position: AWS Community Hero
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/aseldesouky/
+
+- speaker: Amr Elmasry
+  language: English
+  time: 9:30AM Key Note Speaker
+  image: Amr-Elmasry.jpeg
+  position: Country Lead - Saudi Arabia at AWS
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/amr-almasri-607b3b24/
+
+- speaker: Abdullah Al-Hoshan
+  language: English
+  title: Amazon Q Developer
+  time: '10:20AM'
+  image: Abdullah-Al-Hoshan.jpeg
+  position: Senior Solution Architect at AWS Saudi Arabia
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/alhoshan
+
+- speaker: Mahmoud Elhusseiny
+  language: English
+  title: AWS Outposts - Bringing the AWS experience on-premises
+  time: '11:00AM'
+  image: Mahmoud-Elhusseiny.jpeg
+  position: Senior Solutions Architect at AWS Saudi Arabia
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/mahmoud-elhusseiny-41548055

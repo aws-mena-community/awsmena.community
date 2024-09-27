@@ -1,0 +1,45 @@
+
+- speaker: Hesham Galal Abouelmagd
+  language: English
+  title: Empowering Career Growth with AWS
+  time: '12:30PM'
+  image: Hesham-Galal-Abouelmagd.jpeg
+  position: Head of Solutions Architects - WWPS BAH, KSA, EG & NA - AWS
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/heshamgalal/
+
+- speaker: Mohammed Albaharnah
+  language: English
+  title: AWS Advanced Networking and Use Cases 
+  time: '1:00PM'
+  image: Mohammed-Albaharnah.jpeg
+  position: Associate Director, Customer Technology Advisor - Kyndryl
+  custom-css-class: bg
+  linked-url: https://twitter.com/mohd_albaharnah
+
+- speaker: Mohammed Fazalullah (Faz)
+  language: English
+  title: Build and orchestrate serverless generative AI applications 
+  time: '1:45PM'
+  image: Mohammed-Fazalullah-(Faz).jpeg
+  position: Senior Developer Advocate at AWS for the MENA region
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/mohammedfazalullah/
+
+- speaker: Arwa Alnitaifi
+  language: English
+  title: Generative BI in action with Amazon QuickSight
+  time: '2:15PM'
+  image: Arwa-Alnitaifi.jpeg
+  position: Solutions Architect at AWS Saudi Arabia
+  custom-css-class: bg
+  linked-url: http://linkedin.com/in/arwaalnitaifi
+
+- speaker: Amr El-Selouky
+  language: English
+  title: TBA
+  time: '2:45PM'
+  image: AmrElSelouky.jpeg
+  position: MENA Regional Director @ Manara
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/amr-el-selouky/

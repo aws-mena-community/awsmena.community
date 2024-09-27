@@ -1,0 +1,29 @@
+- speaker: Mohamed Amr
+  language: English
+  title: Unleashing the Power of AWS - A Workshop on Bedrock Chatbot Assistant
+  time: '4:00PM'
+  image: Mohamed-Amr.jpeg
+  position: Machine Learning Engineer at Sanlam
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/mamryehia/
+
+- speaker: Anas Aljuwaiber
+  language: English
+  title: Training Programs at Tuwaiq Academy
+  time: '4:30PM'
+  image: Anas-Aljuwaiber.jpg
+  position: Technical Trainer at Tuwaiq Academy
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/anasju
+
+- speaker: Mohamed Sallam
+  language: English
+  title: From On-Premises DB to AWS - A Real-World Database Migration Case Study
+  time: '5:00PM'
+  image: Mohamed-Sallam.jpeg
+  position: Principal Consultant - Kuwait Finance House-Bahrain
+  custom-css-class: bg
+  linked-url: https://www.linkedin.com/in/msallam-140/
+
+
+
